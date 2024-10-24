@@ -136,7 +136,6 @@ body.insertBefore(navbarDiv, body.firstChild);
 
 const texts = [
   "looks like hcps closed all my images",
-];
 "Nothing But Something. -me.",
   "Rare reel pull.",
   "The Mercedes CLR GTR...",
