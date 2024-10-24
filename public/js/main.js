@@ -119,7 +119,7 @@ var navbarHTML = `
                     <a href="/./apps"><i class="ti ti-apps">&nbsp;</i>Apps</a>
                     <a href="/./settings"><i class="ti ti-settings">&nbsp;</i>Settings</a>
                     <a href="/./extra"><i class="ti ti-menu-2">&nbsp;</i>Extras</a>
-                    <a href="https://www.google.com/search?q=lottery+image"><i class="ti ti-brand-discord">&nbsp;</i>ImageOfTheDay</a>
+                    <a href="https://www.google.com/search?q=fortnite+image><i class="ti ti-brand-discord">&nbsp;</i>ImageOfTheDay</a>
                     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css">
 
             </div>
@@ -135,7 +135,9 @@ var body = document.body;
 body.insertBefore(navbarDiv, body.firstChild);
 
 const texts = [
-  "Nothing But Something. -me.",
+  "looks like hcps closed all my images",
+];
+"Nothing But Something. -me.",
   "Rare reel pull.",
   "The Mercedes CLR GTR...",
   "Spend Time Doing School Work. -absolutely fuping No-one.",
