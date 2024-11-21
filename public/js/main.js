@@ -272,8 +272,8 @@ function changeTabCloak(title, favicon) {
 }
 
 window.addEventListener("load", function () {
-  const savedTitle = sessionStorage.getItem("savedTitle");
-  const savedFavicon = sessionStorage.getItem("savedFavicon");
+  const savedTitle = sessionStorage.getItem("powerpoint");
+  const savedFavicon = sessionStorage.getItem("powerpoint.jpg");
 
   if (savedTitle && savedFavicon) {
     changeTabCloak(savedTitle, savedFavicon);
